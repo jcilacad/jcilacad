@@ -1,30 +1,51 @@
+<div align="center">
+
 # John Christopher Ilacad
+### Java Backend Developer
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-christopher-ilacad-4a2a761bb//)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/jcilacadl/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:johnchristopherilacad27@gmail.com)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA500?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/jcilacad/)
-[![Github](https://img.shields.io/github/followers/jcilacad?label=Follow&style=social)](https://github.com/jcilacad)
+*Folding complexity — into clarity.*
 
-💻 Currently an undergraduate Computer Science student at the University of the City of Manila.
+<br/>
 
-🌱 Actively learning and mastering Spring frameworks, with a keen interest in REST API development and design patterns.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcilacad/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jcilacad-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:johnchristopherilacad27@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/jcilacad/)
+[![GitHub](https://img.shields.io/github/followers/jcilacad?label=Follow&style=social)](https://github.com/jcilacad)
 
-📚 Regularly reading documentations and tutorials about web development to further improve my knowledge.
+</div>
 
-📫 How to reach me: johnchristopherilacad27@gmail.com.
+---
 
+💼 Currently working as a Java Backend Developer.
+🌱 Continuously deepening my expertise in Spring Boot, microservices architecture, and enterprise system design.
+📚 Regularly reading documentation and exploring best practices in backend development, system design, and cloud technologies.
+📫 How to reach me: johnchristopherilacad27@gmail.com
 
-### 🖥 Skills
+> *Clarity over cleverness. Understand before you build. Leave it better than you found it.*
+
+---
+
+### 🖥️ Skills
 
 - Object-Oriented Programming (OOP)
-- Spring Framework
-- Relational Databases
+- Spring Boot & Spring Framework
+- Microservices Architecture
 - RESTful API Development
-- Version Control/Git
+- Relational & NoSQL Databases
+- Test-Driven Development (TDD)
+- Version Control / Git
+
+---
+
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20Boot-05122A?style=for-the-badge&logo=Spring-Boot&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20MVC-05122A?style=for-the-badge&logo=Spring-MVC&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20Security-05122A?style=for-the-badge&logo=Spring-Security&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20data%20jpa-05122A?style=for-the-badge&logo=Spring-data-jpa&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20AOP-05122A?style=for-the-badge&logo=Spring-AOP&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Spring%20rest-05122A?style=for-the-badge&logo=Spring-rest&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Hibernate-05122A?style=for-the-badge&logo=Hibernate&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Thymeleaf-05122A?style=for-the-badge&logo=Thymeleaf&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=ffffff) ![Bootstrap](https://img.shields.io/badge/-Maven-05122A?style=for-the-badge&logo=Maven&color=ffffff)
-
-
-
+![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-05122A?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-05122A?style=for-the-badge&logo=hibernate&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-05122A?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-05122A?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-05122A?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white)
